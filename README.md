@@ -1,4 +1,4 @@
-# PROXYLIST
+# HTTP-PROXYLIST
 free proxy results from scraping from a website.
 The proxy will update automatically every 30 minutes or so.
 
